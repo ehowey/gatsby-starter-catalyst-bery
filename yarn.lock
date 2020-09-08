@@ -7348,10 +7348,10 @@ gatsby-telemetry@^1.3.32:
     node-fetch "^2.6.0"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-bery@^0.5.1:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-bery/-/gatsby-theme-catalyst-bery-0.5.1.tgz#efa10aad88ddd9f7fff39879f6c75ba601380619"
-  integrity sha512-suxhnRWgkCnVvQVfrOL93Be+4tNVnMRm4ytcC5iMP+HcNRlyj6uNlEk8KGZ+VduHu1jFBf8B2Jp1u4NdDuXbBw==
+gatsby-theme-catalyst-bery@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-bery/-/gatsby-theme-catalyst-bery-1.0.0.tgz#cd660691bd7aacf9f23fe469d2a021240cfe29c6"
+  integrity sha512-fu+Udc7664NsPQemh7Yfwmmj+39bc3c0/0focy0MZCk3Pyi+T4QSG9YHDGuHX7dQKakyodH1BvOyE43c15r63A==
   dependencies:
     framer-motion "^2.6.5"
     gatsby-plugin-feed "^2.5.11"
