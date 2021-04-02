@@ -6988,19 +6988,19 @@ gatsby-telemetry@^2.2.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-bery@^6.0.0-beta.2:
-  version "6.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-bery/-/gatsby-theme-catalyst-bery-6.0.0-beta.2.tgz#cbbc11927c099d0e4d7d3c99ad8ed4a996e488b2"
-  integrity sha512-XIIfnEwwi3EETUXHqnx7OV9IbAlq+NWbRyyKz8Umai7Te5mHonRocdMypsDrue9sv86C9d6fbUq7dvYVwf7mLA==
+gatsby-theme-catalyst-bery@^6.0.0-beta.3:
+  version "6.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-bery/-/gatsby-theme-catalyst-bery-6.0.0-beta.3.tgz#2ffcd296465cc49477207d924709038391523e49"
+  integrity sha512-NCPaI6MNLCWkdf7i22yBiHz7k+WE+WY3Y4ivn5iUSnFX2pIZPdk4pQzB1nnMAKhwCHxNoRAVh9qu5q6B6gLL7w==
   dependencies:
-    gatsby-theme-catalyst-core "^6.0.0-beta.2"
-    gatsby-theme-catalyst-footer "^6.0.0-beta.2"
-    gatsby-theme-catalyst-sanity "^6.0.0-beta.2"
+    gatsby-theme-catalyst-core "^6.0.0-beta.3"
+    gatsby-theme-catalyst-footer "^6.0.0-beta.3"
+    gatsby-theme-catalyst-sanity "^6.0.0-beta.3"
 
-gatsby-theme-catalyst-core@^6.0.0-beta.2:
-  version "6.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-6.0.0-beta.2.tgz#0767d1d03dfb49731d325dfee386c007bc9994b1"
-  integrity sha512-8AUTskCpYH0a6LOoAsRT/KTUVjQIv+ZquxruT3Cxa53uaX1yn2+9Q0evYIP8tWR+HjwpDoHBGWjap5eJNntEIA==
+gatsby-theme-catalyst-core@^6.0.0-beta.3:
+  version "6.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-6.0.0-beta.3.tgz#84b708d3cb8f3e263443c3c5f967ef412cd71ec1"
+  integrity sha512-eRaMfzbGVIq8XFgmh8CJVkP3ZaPq2ROgh5qiJosXrkt5dIooseQ+/Xo5bf2vvgbZBWplYBlRu7SLAe5D4Li3hQ==
   dependencies:
     "@mdx-js/mdx" "^1.6.22"
     "@mdx-js/react" "^1.6.22"
@@ -7045,15 +7045,15 @@ gatsby-theme-catalyst-core@^6.0.0-beta.2:
     remark-slug "^6.0.0"
     theme-ui "^0.6.1"
 
-gatsby-theme-catalyst-footer@^6.0.0-beta.2:
-  version "6.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer/-/gatsby-theme-catalyst-footer-6.0.0-beta.2.tgz#e4d4e96be89e477b6159c82bbc3e3506c18ee68e"
-  integrity sha512-zIXRAE6l6uLOen/HsLILP2NGi9g2CVhPVbdFMz/oSPVUOVYPtZbeJIOapjKzb0p/jnKmBoD0F3OlhDjs8z3YlQ==
+gatsby-theme-catalyst-footer@^6.0.0-beta.3:
+  version "6.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer/-/gatsby-theme-catalyst-footer-6.0.0-beta.3.tgz#f703dd3ce1c733201e44440ad16bb4a9af59dfb9"
+  integrity sha512-KQmFk1usXdFoAxuEjbfpX6uYeI5RkVYOMUwflTAcKwsqvh4MEVDJIW1vVrHZ2DgCiEgmhVQ4r4Bu/h5xM3VXzg==
 
-gatsby-theme-catalyst-sanity@^6.0.0-beta.2:
-  version "6.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-sanity/-/gatsby-theme-catalyst-sanity-6.0.0-beta.2.tgz#a0523090a3ba77eded55b51d32be89fee2eb0fd1"
-  integrity sha512-uVy7yAWEjiP2vNU5RsEoqmPw1dhvSwZIp2z52XkPHLjSCMJ75CuUELejDY/gBcwMMu1a7zTE9Fm11r/waJIfHA==
+gatsby-theme-catalyst-sanity@^6.0.0-beta.3:
+  version "6.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-sanity/-/gatsby-theme-catalyst-sanity-6.0.0-beta.3.tgz#27be54c7caddfb90ab7c4ecd864ce377d1856abc"
+  integrity sha512-05Rfs35U3WqAyJ5xb+hIemTi7HYrgMotWkuUsvy1U3lk400ug98gpyDoFq87uKjTFmxVEW3VN6GOy4AWYn5Y0Q==
   dependencies:
     "@sanity/block-content-to-react" "^2.0.7"
     gatsby-source-sanity "^7.0.2"
