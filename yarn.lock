@@ -6948,7 +6948,7 @@ gatsby-telemetry@^2.3.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-bery@^6.0.0-beta.5:
+gatsby-theme-catalyst-bery@^6.0.0-beta.6:
   version "6.0.0-beta.6"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-bery/-/gatsby-theme-catalyst-bery-6.0.0-beta.6.tgz#48d3fc4256ddd50ad26566d3aec813ea05f2d8cf"
   integrity sha512-0ukYkYIpJ1F4aAtp85X5am0MTFUzlaroBozsk70OwGlt8Tv5CNSqYnBpRN88HuCa6kAPTUbOrfYDbFKGL2cVnw==
